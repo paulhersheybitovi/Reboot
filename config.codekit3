@@ -17,134 +17,134 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/js/src/alert.js": {
+	"/js/alert.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/alert-min.js",
+		"oA": 0,
+		"oAP": "/js/alert-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/button.js": {
+	"/js/button.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/button-min.js",
+		"oA": 0,
+		"oAP": "/js/button-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/carousel.js": {
+	"/js/carousel.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/carousel-min.js",
+		"oA": 0,
+		"oAP": "/js/carousel-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/collapse.js": {
+	"/js/collapse.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/collapse-min.js",
+		"oA": 0,
+		"oAP": "/js/collapse-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/dropdown.js": {
+	"/js/dropdown.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/dropdown-min.js",
+		"oA": 0,
+		"oAP": "/js/dropdown-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/modal.js": {
+	"/js/modal.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/modal-min.js",
+		"oA": 0,
+		"oAP": "/js/modal-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/popover.js": {
+	"/js/popover.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/popover-min.js",
+		"oA": 0,
+		"oAP": "/js/popover-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/scrollspy.js": {
+	"/js/scrollspy.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/scrollspy-min.js",
+		"oA": 0,
+		"oAP": "/js/scrollspy-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/tab.js": {
+	"/js/tab.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/tab-min.js",
+		"oA": 0,
+		"oAP": "/js/tab-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/toast.js": {
+	"/js/toast.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/toast-min.js",
+		"oA": 0,
+		"oAP": "/js/toast-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/tooltip.js": {
+	"/js/tooltip.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/tooltip-min.js",
+		"oA": 0,
+		"oAP": "/js/tooltip-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/src/util.js": {
+	"/js/util.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "/js/src/util-min.js",
+		"oA": 0,
+		"oAP": "/js/util-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -674,6 +674,16 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/scss/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/scss/bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/scss/bootstrap.scss": {
 		"aP": 0,
